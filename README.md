@@ -10,7 +10,7 @@ Bu proje; küçük ve orta ölçekli işletmelerin (KOBİ) cari hesaplarını, s
 - **Cari Hesap Yönetimi:** Müşteri ve tedarikçi bazlı borç/alacak takibi.
 - **Modern Arayüz:** PyQt6 ile tasarlanmış, göz yormayan Dark Mode (Koyu Tema) desteği.
 - **Güvenli Veritabanı:** Verilerin yerel olarak saklandığı hızlı SQLite altyapısı.
-
+- **Ekran Görüntüsü**![ERP Lite v2.0 Ekran Görüntüsü](ekran_goruntusu.png)
 ##  Kullanılan Teknolojiler
 - **Dil:** Python 3.10+
 - **Arayüz Framework:** PyQt6
@@ -25,3 +25,5 @@ Projeyi kendi bilgisayarınızda çalıştırmak için şu adımları izleyin:
 2. Gerekli kütüphaneleri yükleyin:
    ```bash
    pip install PyQt6 pandas requests
+3. Uygulamayı başlatın:
+   python erp.py
